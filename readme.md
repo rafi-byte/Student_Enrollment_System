@@ -40,7 +40,7 @@ This web application streamlines the student enrollment process, providing both 
 
 1.  Clone the repository :
    ```bash
-   git clone https://github.com/yourusername/student-enrollment.git
+   git clone https://github.com/rafi-byte/student-enrollment.git
    ```
 
 2.  Move to the XAMPP `htdocs` directory :
